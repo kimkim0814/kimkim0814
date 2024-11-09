@@ -1,7 +1,7 @@
 
 ## Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tsubasa_k0814/posts.svg)](http://qiita.com/kim_t0814)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tsubasa_k0814/contributions.svg)](http://qiita.com/kim_t0814)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tsubasa_k0814/posts.svg)](http://qiita.com/tsubasa_k0814)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tsubasa_k0814/contributions.svg)](http://qiita.com/tsubasa_k0814)
 
 # achievement
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimkim0814&theme=default)
